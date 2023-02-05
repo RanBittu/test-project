@@ -1,3 +1,3 @@
-hello world
-Ranjeet Kumar from Hyd
-my native place is Bihar
+console.log("hello world");
+console.log("Ranjeet Kumar from Hyd");
+console.log("my native place is Bihar");
